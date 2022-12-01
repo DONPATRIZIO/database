@@ -1,3 +1,3 @@
-public class Biancavilla extends Pokemon {
+public class Biancavilla  {
     
 }
