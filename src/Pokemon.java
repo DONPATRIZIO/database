@@ -1,3 +1,5 @@
+import java.util.Iterator;
+
 /*
  * Progettare una base di dati per gestire i Pokèmon presenti 
  * nella città di Biancavilla, composta dalla seguente tabella. 
@@ -40,6 +42,9 @@ this.elementType=elementType;
 }
 public int setLevel(){
     return level;
+}
+public static Iterator<Pokemon> iterator() {
+    return null;
 }
 
 }

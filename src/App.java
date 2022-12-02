@@ -8,4 +8,5 @@ public class App {
         DBManager.insertRecord();
         DBManager.closeConnection();
     }
+
 }
